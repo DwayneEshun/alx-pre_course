@@ -1,1 +1,4 @@
-echo The school is open
+
+#!/bin/bash
+echo "ALX school is so cool"
+echo "The school is open"
